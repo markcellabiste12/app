@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "cd-borrowing-app",
-    "slug": "cd-borrowing-app",
+    "name": "CDManager",
+    "slug": "CDManager",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "cdborrowingapp",
+    "scheme": "cdmanager",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
